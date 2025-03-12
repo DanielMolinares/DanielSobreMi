@@ -35,10 +35,7 @@ body{
     font-weight: 600;
     color: var(--color-terciario);
     text-decoration: none;
-
 }
-
-
 
 .presentacion {
     padding: 5% 15%;
@@ -52,6 +49,11 @@ body{
     display: flex;
     flex-direction: column;
     gap: 40px;
+}
+
+.presentacion__imagen{
+    width: 450px;
+    border-radius: 20px;
 }
 
 
